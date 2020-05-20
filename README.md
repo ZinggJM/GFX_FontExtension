@@ -3,6 +3,6 @@
 
 ### Version 0.0.1
 - update for updated gfxfont.h in Adafruit_GFX
-- to be done
+- can also be used with https://github.com/ZinggJM/Fruitless_GFX
 #### Version 0.0.0
 - this is the pre-gfxfont.h update version, kept for reference
